@@ -1,0 +1,4 @@
+Hunter-1-8-0b04eb1a-7c5a-4fe7-856b-b75541aa0fca
+Transport plane-2-15-eaea6c36-c64b-46f9-aa1e-9af6b3791e12
+Firefighting plane-5-18-eb70b3f8-93bd-4c66-bc1d-377ae93a8146
+Helicopter-19-8-ba586414-0725-483f-931a-f70a926df999
